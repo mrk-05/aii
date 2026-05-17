@@ -1,4 +1,4 @@
-#depth first search algorithm and Breadth First Search algorithm
+//depth first search algorithm and Breadth First Search algorithm
 
 #include <bits/stdc++.h>
 using namespace std;
